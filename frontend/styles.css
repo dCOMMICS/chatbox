@@ -21,3 +21,11 @@ padding: 0;
   align-items: center;
   justify-content: space-between;
 }
+
+.grid-container{
+
+    animation: highlight both linear;
+     animation-timeline: view(inline); 
+     animation-range: cover 0% cover 50%; 
+
+}
