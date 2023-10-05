@@ -67,10 +67,10 @@ footer {
     border: none;
     z-index: 1000; 
 }
-.container {
+/* .container {
     margin: 0 auto;
     max-width: 1200px; /* or any other value */
-    padding: 0 20px; /* adding 20px of padding */
+    padding: 0 20px; adding 20px of padding */
 }
 
 body {
